@@ -1,0 +1,15 @@
+INSERT INTO Students(Name , No_A , No_B , No_C) Values
+('Zain' , 10 , 0 , 0),
+('Ali' , 5 , 5 , 0),
+('Murtaza' , 9 , 0 , 1),
+('Ahmed' , 3 , 7 , 0),
+('Yasin' , 0 , 8 , 2),
+('Rafay' , 1 , 3 , 6),
+('Abdullah' , 2 , 1 , 7),
+('Huzaifa' , 2 , 7 , 1),
+('Tariq' , 9 , 1 , 0),
+('Sadiq' , 3 , 3 , 4),
+(NULL , 2 , 7 , 1),
+('B' , NULL , 1 , 0),
+('C' , 3 , NULL , 4),
+('D' , 10 , 0 , NULL);

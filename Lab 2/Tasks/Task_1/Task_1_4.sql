@@ -1,0 +1,2 @@
+SELECT * FROM Friends
+WHERE id BETWEEN 2 AND 8

@@ -1,0 +1,2 @@
+DELETE FROM Salary CASCADE
+WHERE Emp_id = 3;

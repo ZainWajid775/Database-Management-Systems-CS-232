@@ -1,0 +1,3 @@
+ALTER TABLE Students
+ADD COLUMN No_D int,
+ADD COLUMN No_F int;

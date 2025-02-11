@@ -1,0 +1,1 @@
+SELECT DISTINCT No_A , No_B , No_C FROM Students

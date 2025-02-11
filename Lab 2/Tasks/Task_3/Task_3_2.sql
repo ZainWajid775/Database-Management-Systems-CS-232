@@ -1,0 +1,1 @@
+TRUNCATE Employee_Info CASCADE

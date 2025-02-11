@@ -1,0 +1,2 @@
+SELECT * FROM Friends
+WHERE Age > 17
