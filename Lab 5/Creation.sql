@@ -16,8 +16,6 @@ VALUES
 	(555 , 'LA' , 'Singapore' , 11000 , 55000),
 	(666 , 'UK' , 'Atlanta' , 15000 , 60000);
 
-
-
 --Aircrafs Table
 CREATE TABLE aircraft
 (
