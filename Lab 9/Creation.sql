@@ -1,0 +1,18 @@
+DROP TABLE IF EXISTS employees;
+
+CREATE TABLE employees
+(
+	id INT GENERATED ALWAYS AS IDENTITY,
+	first_name VARCHAR(40) NOT NULL,
+	last_name VARCHAR(40) NOT NULL,
+	PRIMARY KEY(id)
+);
+
+CREATE TABLE employee_audits 
+(
+	id INT GENERATED ALWAYS AS IDENTITY,
+	employee_id INT NOT NULL,
+	last_name VARCHAR(40) NOT NULL,
+	changed_on TIMESTAMP(6) NOT NULL
+);
+
